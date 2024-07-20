@@ -1,2 +1,2 @@
-# OasisInfobyteTask-1
+# OasisInfobyteTask-
 Creating a calculator
